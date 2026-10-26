@@ -30,6 +30,8 @@ Aprendizados:
 
 Com este projeto, pratiquei a organização de dados, o uso de fórmulas para calcular indicadores, a comparação de categorias e a criação de visualizações para comunicar resultados.
 
+![Captura do projeto de análise de vendas](captura-dashboard.png)
+
 Observação:
 
 Os dados utilizados são fictícios e foram criados para fins de aprendizado e prática.
